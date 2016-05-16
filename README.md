@@ -1,5 +1,11 @@
-# Checks-word-correctness
+# Spell Checker Generator
 
-This program will be using racket to tell if The word given is spelt incorrect or correct based on the dictionary.
-If the word is found in the dictionary file then it is spelt correctly. It uses many functions to generate a proper key values in which it proves that the word is spelt correct or not. 
-nneyssdsdsffd
+
+####Introduction
+This program uses scheme to determine whether a word given to it is spelt correcly based on the dictionary it has.
+
+
+
+
+####How it works
+The words that are going to be checked for spelling is based on hash values. The strings get mapped to integers values respectively called the key. Then the key is hashed to its final hash value by using the multiplication method and the division method. The same procces occurs for the dictionary file. Two lists of hash values get created in which they word gets compared with the dicitonary to confirm if it is spelt correctly.  
