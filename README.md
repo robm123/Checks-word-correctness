@@ -1,4 +1,4 @@
-# Spell Checker Generator
+#![](https://cdn2.iconfinder.com/data/icons/flat-seo-web-ikooni/128/flat_seo2-04-24.png)Spell Checker Generator
 
 
 ####Introduction
