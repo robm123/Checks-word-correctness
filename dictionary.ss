@@ -1,10 +1,7 @@
-
-
 ; *********************************************
 ; *  314 Principles of Programming Languages  *
 ; *  Fall 2015                                *
 ; *********************************************
-;#lang racket
 
 (define dictionary '(
    ( a a r h u s )
